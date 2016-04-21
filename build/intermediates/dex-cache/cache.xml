@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\gradle-2.8\caches\modules-2\files-2.1\com.squareup.retrofit2\retrofit\2.0.0-beta4\739e00dea1f0ac04fdb9b6160d667e23cc50a791\retrofit-2.0.0-beta4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="739e00dea1f0ac04fdb9b6160d667e23cc50a791">
+        <dex dex="D:\android_github\DOne-master\app\build\intermediates\pre-dexed\debug\retrofit-2.0.0-beta4_0e3d91577cfca945ba95a8cbf67a1bf65c8744f2.jar" />
+    </item>
+    <item
+        jar="D:\android_github\DOne-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\libs\internal_impl-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e239441500605809818997dd63b62a947195f8c">
+        <dex dex="D:\android_github\DOne-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.0_d82949e8e73192776e667d3f02538a7fee60b29a.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\gradle-2.8\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="D:\android_github\DOne-master\app\build\intermediates\pre-dexed\debug\okio-1.6.0_93d83081bdce104d752c8be87961de6a54575061.jar" />
+    </item>
+    <item
+        jar="D:\android_github\DOne-master\app\build\intermediates\exploded-aar\com.android.support\design\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1aa5b025efe97f5006f5be16d6ca67c6c3c0c0d8">
+        <dex dex="D:\android_github\DOne-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.2.0_2392162e8ee65c4fa5357be3aaaeda56e4b0264a.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\gradle-2.8\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.4.3\feff63199be7b8f495c2f3e2096dcb6bd5e5b0b3\jackson-databind-2.4.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="feff63199be7b8f495c2f3e2096dcb6bd5e5b0b3">
+        <dex dex="D:\android_github\DOne-master\app\build\intermediates\pre-dexed\debug\jackson-databind-2.4.3_26153610a9c018e7d6744c00b9861b1fe7ae4919.jar" />
+    </item>
+    <item
+        jar="D:\android_github\DOne-master\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8c108c22c99e794eff255bb34d2a461200c4cbb0">
+        <dex dex="D:\android_github\DOne-master\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.2.0_f5b6afd49f8b35f638449568464f3691d3207068.jar" />
+    </item>
+    <item
+        jar="F:\JavaIDE\android_sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.0\support-annotations-23.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c5bf571bb10462bd90e5419ade67793f71acbc87">
+        <dex dex="D:\android_github\DOne-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.0_225d2608dd4ecc7e25c6c01d95dfbcfff242214a.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\gradle-2.8\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-jackson\2.0.0-beta4\114706f52f8f18479d58f5b3596a5b5489f46a6a\converter-jackson-2.0.0-beta4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="114706f52f8f18479d58f5b3596a5b5489f46a6a">
+        <dex dex="D:\android_github\DOne-master\app\build\intermediates\pre-dexed\debug\converter-jackson-2.0.0-beta4_c1620f6d39b5d6f74e2f27995cdac36ef06089ee.jar" />
+    </item>
+    <item
+        jar="D:\android_github\DOne-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e5f32fa48a3eb2de0c987025c11b6e3864b634d9">
+        <dex dex="D:\android_github\DOne-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.0_772e05083affad8eb4e77afa9cc43431ac6a6c03.jar" />
+    </item>
+    <item
+        jar="D:\android_github\DOne-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6e3578f92f7462d1a935a1d36173e3bdd1234976">
+        <dex dex="D:\android_github\DOne-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.2.0_0d60e8e8238aeaf5fe9ee9aa2e4fe60d9a35ef09.jar" />
+    </item>
+    <item
+        jar="D:\android_github\DOne-master\app\build\intermediates\exploded-aar\com.commit451\PhotoView\1.2.4\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="890be6e1e56a883c9b407a11e067a61886dec123">
+        <dex dex="D:\android_github\DOne-master\app\build\intermediates\pre-dexed\debug\com.commit451-PhotoView-1.2.4_1cb5fefef7e7fa1a2db6937028498970b5135000.jar" />
+    </item>
+    <item
+        jar="D:\android_github\DOne-master\app\libs\EasyDao-1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a15760b79c00bda7782fac246e7b86838f3ecff">
+        <dex dex="D:\android_github\DOne-master\app\build\intermediates\pre-dexed\debug\EasyDao-1.1_449798842c94522039b699e8962107e28496d878.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\gradle-2.8\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.4.3\4cb3dbb0c2f75b51aa7543c53252989785a0c609\jackson-core-2.4.3.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4cb3dbb0c2f75b51aa7543c53252989785a0c609">
+        <dex dex="D:\android_github\DOne-master\app\build\intermediates\pre-dexed\debug\jackson-core-2.4.3_a6fa0c4b4ca83aa889967f88341ec7d175d0de19.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\gradle-2.8\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="D:\android_github\DOne-master\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_b94e3beef9638d29d3965a1703632171de669805.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\gradle-2.8\caches\modules-2\files-2.1\com.squareup.retrofit2\converter-scalars\2.0.0-beta4\f8685e25bc7f076913e2b51996cbc19ef7eb05df\converter-scalars-2.0.0-beta4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f8685e25bc7f076913e2b51996cbc19ef7eb05df">
+        <dex dex="D:\android_github\DOne-master\app\build\intermediates\pre-dexed\debug\converter-scalars-2.0.0-beta4_63a0f863382bc5e24ca2104c6c303a1a27e831ea.jar" />
+    </item>
+    <item
+        jar="D:\android_github\DOne-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d4c936aa8c7d2522c82e3f1829c791d9e367f009">
+        <dex dex="D:\android_github\DOne-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.2.0_91e9df3af773b5cc6e7cb1c0adc2edf724902b7e.jar" />
+    </item>
+    <item
+        jar="D:\android_github\DOne-master\app\build\intermediates\exploded-aar\com.android.support\palette-v7\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="897400f08e8b3f5e290a5da388973f7cfe700965">
+        <dex dex="D:\android_github\DOne-master\app\build\intermediates\pre-dexed\debug\com.android.support-palette-v7-23.2.0_5e6761950c787da229c5990d59143954240a38bd.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\gradle-2.8\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\android_github\DOne-master\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1_860f5dcbb919018eac7a4f091b17039474c3d2ee.jar" />
+    </item>
+    <item
+        jar="D:\android_github\DOne-master\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="292a9fa091757208efa65e77eef63088247e51f3">
+        <dex dex="D:\android_github\DOne-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.2.0_b90d22b8f0858b6e642fd172ae3988844dd7f2d5.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\gradle-2.8\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.2.0\f7873a2ebde246a45c2a8d6f3247108b4c88a879\okhttp-3.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="D:\android_github\DOne-master\app\build\intermediates\pre-dexed\debug\okhttp-3.2.0_a4395a7448ac5386a749434b61aa87b2aef072fb.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\gradle-2.8\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.4.0\d6a66c7a5f01cf500377bd669507a08cfeba882a\jackson-annotations-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d6a66c7a5f01cf500377bd669507a08cfeba882a">
+        <dex dex="D:\android_github\DOne-master\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.4.0_0bbbebca0744869ea517d188b9158b3b9b9bf49e.jar" />
+    </item>
+
+</items>
